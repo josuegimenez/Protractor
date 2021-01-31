@@ -28,6 +28,6 @@ describe('Demo calculator tests', () => {
 
     it('Check the result is correct', () => {    
         homepage.verifyResult('5')  
-        browser.sleep(3000)
+        browser.sleep(2000)
     })
   })
